@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import org.kde.plasma.components 2.0 as PlasmaComponents
+import org.kde.plasma.plasmoid 2.0
 import org.kde.plasma.core 2.0 as PlasmaCore
 
 // Item - the most basic plasmoid component, an empty container.
