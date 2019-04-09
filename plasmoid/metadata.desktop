@@ -2,10 +2,9 @@
 Encoding=UTF-8
 Name=PlasmaNook
 Comment=Plays Animal Crossing music.
-Icon=nook.png
+Icon=./nook.png
 Type=Service
 
-X-KDE-Library=plasma_applet_tutorial
 X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Craumix & Meerschwein
 X-KDE-PluginInfo-Email=
