@@ -22,12 +22,6 @@ Rectangle {
         property alias gameindex: control.currentIndex
     }
 
-    Image {
-        id: background
-        width: parent.width
-        height: parent.height
-    }
-
     Text {
         id: time_label
         font.family: "Helvetica"
@@ -42,9 +36,9 @@ Rectangle {
         width: 250
         model: [
             "AC: Population Growing (GC)",
-            "AC: Wild World / City Folk (DS)",
-            "AC: Wild World / City Folk (DS) [Rainy]",
-            "AC: Wild World / City Folk (DS) [Snowy]",
+            "AC: Wild World (DS)",
+            "AC: Wild World (DS) [Rainy]",
+            "AC: Wild World (DS) [Snowy]",
             "AC: New Leaf (3DS)",
             "AC: New Leaf (3DS) [Rainy]",
             "AC: New Leaf (3DS) [Snowy]"]
