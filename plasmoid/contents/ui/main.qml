@@ -1,18 +1,16 @@
 import QtQuick 2.0
-import org.kde.plasma.plasmoid 2.0
+import org.kde.plasma.components 2.0 as PlasmaComponents
 import org.kde.plasma.core 2.0 as PlasmaCore
 
 // Item - the most basic plasmoid component, an empty container.
 Item {
 
-        // IconItem - a simple item to display an icon
-	PlasmaCore.IconItem {
-		
-                // source - the icon to be displayed
-                source: "face-smile"
-
-                // height & width set to equal the size of the parent item (the empty "Item" above)
-		width: parent.width
-    	        height: parent.width
-	}
+    Rectangle {
+        color: "red"
+        width: 100; height: 100
+        Rectangle {
+            color: "blue"
+            x: 50; y: 50; width: 100; height: 100
+        }
+    }
 }
