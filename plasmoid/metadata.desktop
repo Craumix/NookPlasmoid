@@ -1,12 +1,12 @@
 [Desktop Entry]
-Encoding=UTF-8
-Name=PlasmaNook
 Comment=Plays Animal Crossing music.
-Icon=./nook.png
+Encoding=UTF-8
+Icon=audio-player
+Name=PlasmaNook
 Type=Service
-
 X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Craumix & Meerschwein
+X-KDE-PluginInfo-Category=Windows and Tasks
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-License=MIT
 X-KDE-PluginInfo-Name=org.nook.music
@@ -15,4 +15,3 @@ X-KDE-PluginInfo-Website=plasma.kde.org
 X-KDE-ServiceTypes=Plasma/Applet
 X-Plasma-API=declarativeappletscript
 X-Plasma-MainScript=ui/main.qml
-X-KDE-PluginInfo-Category=Windows and Tasks
