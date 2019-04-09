@@ -35,13 +35,13 @@ Rectangle {
         y: time_label.height + 10
         width: 250
         model: [
-            "AC: Population Growing (GC)",
-            "AC: Wild World (DS)",
-            "AC: Wild World (DS) [Rainy]",
-            "AC: Wild World (DS) [Snowy]",
-            "AC: New Leaf (3DS)",
-            "AC: New Leaf (3DS) [Rainy]",
-            "AC: New Leaf (3DS) [Snowy]"]
+            "Population Growing (GC)",
+            "Wild World / City Folk (DS)",
+            "Wild World / City Folk (DS) [Rainy]",
+            "Wild World / City Folk (DS) [Snowy]",
+            "New Leaf (3DS)",
+            "New Leaf (3DS) [Rainy]",
+            "New Leaf (3DS) [Snowy]"]
     }
 
     Button {
