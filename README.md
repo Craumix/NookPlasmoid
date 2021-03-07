@@ -1,5 +1,5 @@
 # NookPlasmoid
-A plasmoid that plays Animal Crossing hourly themes. (Inspired by https://www.github.com/matlsn/nook)
+A plasmoid that plays Animal Crossing hourly themes. (Inspired by https://github.com/mn6/nook)
 
 [Original Chrome-Extension](https://chrome.google.com/webstore/detail/nook/gndfjlldkaonpbpdagdnpgobcbgcpdah)
 
